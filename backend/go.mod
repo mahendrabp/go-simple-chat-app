@@ -1,4 +1,4 @@
-module github.com/mahendrabp/simple-chat-app-go
+module github.com/mahendrabp/go-simple-chat-app
 
 go 1.15
 
